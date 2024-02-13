@@ -5,8 +5,8 @@
 
 # Kernel
 KERNEL_NAME="MilkKernel"
-KERNEL_GIT="https://github.com/SchweGELBin/kernel_milk_davinci.git"
-KERNEL_BRANCH="pixelos-14.0"
+KERNEL_GIT="https://github.com/GrapheneOS/kernel_gs.git"
+KERNEL_BRANCH="14"
 
 # KernelSU
 KERNELSU_REPO="tiann/KernelSU"
@@ -18,8 +18,8 @@ ANYKERNEL3_GIT="https://github.com/SchweGELBin/AnyKernel3_davinci.git"
 ANYKERNEL3_BRANCH="master"
 
 # Build
-DEVICE_CODE="davinci"
-DEVICE_DEFCONFIG="davinci_defconfig"
+DEVICE_CODE="cheetah"
+DEVICE_DEFCONFIG="cheetah_defconfig"
 DEVICE_ARCH="arch/arm64"
 
 # Clang
