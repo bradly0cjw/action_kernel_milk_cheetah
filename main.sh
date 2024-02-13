@@ -14,7 +14,7 @@ REMOVE_SIG_VER="true"
 KSU_ENABLED="true"
 
 # Anykernel3
-ANYKERNEL3_GIT="https://github.com/SchweGELBin/AnyKernel3_davinci.git"
+ANYKERNEL3_GIT="https://github.com/bradly0cjw/AnyKernel3_cheetah.git"
 ANYKERNEL3_BRANCH="master"
 
 # Build
