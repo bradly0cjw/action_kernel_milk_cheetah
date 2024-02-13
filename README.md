@@ -2,7 +2,7 @@
 
 **Dynamic Kernel**
 
-**For davinci | Mi 9T / Redmi K20**
+**For cheetah | Pixel 7 Pro**
 
 **Includes KernelSU**
 
