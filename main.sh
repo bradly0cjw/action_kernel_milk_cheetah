@@ -4,7 +4,7 @@
 # ------------------------------------------------------------
 
 # Kernel
-KERNEL_NAME="MilkKernel"
+KERNEL_NAME="GrapenOSWithKSU"
 KERNEL_GIT="https://github.com/GrapheneOS/kernel_gs.git"
 KERNEL_BRANCH="14"
 
