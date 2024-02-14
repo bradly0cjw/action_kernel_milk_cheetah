@@ -4,9 +4,9 @@
 # ------------------------------------------------------------
 
 # Kernel
-KERNEL_NAME="GrapenOSWithKSU"
-KERNEL_GIT="https://github.com/GrapheneOS/kernel_gs.git"
-KERNEL_BRANCH="14"
+KERNEL_NAME="PixelWithKSU"
+KERNEL_GIT="https://android.googlesource.com/device/google/pantah-kernel"
+KERNEL_BRANCH="main"
 
 # KernelSU
 KERNELSU_REPO="tiann/KernelSU"
