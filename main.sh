@@ -19,7 +19,7 @@ ANYKERNEL3_BRANCH="master"
 
 # Build
 DEVICE_CODE="cheetah"
-DEVICE_DEFCONFIG="cheetah_defconfig"
+DEVICE_DEFCONFIG="gki_defconfig"
 DEVICE_ARCH="arch/arm64"
 
 # Clang
