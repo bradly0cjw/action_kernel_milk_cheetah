@@ -5,8 +5,8 @@
 
 # Kernel
 KERNEL_NAME="PixelWithKSU"
-KERNEL_GIT="https://android.googlesource.com/device/google/pantah-kernel"
-KERNEL_BRANCH="main"
+KERNEL_GIT="https://github.com/freak07/Kirisakura_Pantah.git"
+KERNEL_BRANCH="up1a.231005"
 
 # KernelSU
 KERNELSU_REPO="tiann/KernelSU"
