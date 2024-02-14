@@ -11,7 +11,7 @@ KERNEL_BRANCH="up1a.231005"
 # KernelSU
 KERNELSU_REPO="tiann/KernelSU"
 REMOVE_SIG_VER="true"
-KSU_ENABLED="true"
+KSU_ENABLED="false"
 
 # Anykernel3
 ANYKERNEL3_GIT="https://github.com/bradly0cjw/AnyKernel3_cheetah.git"
