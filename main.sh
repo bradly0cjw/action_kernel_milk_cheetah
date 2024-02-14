@@ -146,6 +146,7 @@ msg "Package"
 cd $WORKDIR
 git clone --depth=1 $ANYKERNEL3_GIT -b $ANYKERNEL3_BRANCH $WORKDIR/Anykernel3
 cd $WORKDIR/Anykernel3
+ls
 cp $IMAGE .
 cp $DTB $WORKDIR/Anykernel3/dtb
 cp $DTBO .
